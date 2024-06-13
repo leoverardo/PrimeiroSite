@@ -1,0 +1,4 @@
+cor 1 #DA1212
+cor 2 #F08C00
+cor 3 #C6DA20
+cor 4 #F3F5D5
